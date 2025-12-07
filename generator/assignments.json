@@ -1,0 +1,39 @@
+{
+  "assignments": [
+    {
+      "token": "a8a68d42-a83b-465f-8223-479c0bea37ea",
+      "giverId": "mario",
+      "receiverName": "Florian"
+    },
+    {
+      "token": "49abb559-04e2-4a16-a508-4b0b2a1b4eb7",
+      "giverId": "bettina",
+      "receiverName": "Sigrid"
+    },
+    {
+      "token": "1d02ca4b-60fc-4098-bcaf-c5e79b130982",
+      "giverId": "lina",
+      "receiverName": "Stefanie"
+    },
+    {
+      "token": "95b07fc4-17bb-415c-940f-27ff8e83b3ec",
+      "giverId": "stefanie",
+      "receiverName": "Mario"
+    },
+    {
+      "token": "fdf70c8d-81d9-4622-9944-8f96b9f561f6",
+      "giverId": "florian",
+      "receiverName": "Marvin"
+    },
+    {
+      "token": "2d300262-a0ee-4a9a-96fc-6e3207c127e9",
+      "giverId": "sigrid",
+      "receiverName": "Bettina"
+    },
+    {
+      "token": "1b206fee-8fec-4a1d-9057-6107a79dac00",
+      "giverId": "marvin",
+      "receiverName": "Lina"
+    }
+  ]
+}

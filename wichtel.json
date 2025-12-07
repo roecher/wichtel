@@ -1,0 +1,9 @@
+[
+  { "name": "Mario",    "contact": "mario@roecher.de",    "contactType": "email",    "id": "mario" },
+  { "name": "Bettina",  "contact": "bettina@roecher.de",  "contactType": "email",    "id": "bettina" },
+  { "name": "Lina",     "contact": "lina@roecher.de",     "contactType": "email",    "id": "lina" },
+  { "name": "Stefanie", "contact": null,                  "contactType": "whatsapp", "id": "stefanie" },
+  { "name": "Florian",  "contact": null,                  "contactType": "whatsapp", "id": "florian" },
+  { "name": "Sigrid",   "contact": null,                  "contactType": "whatsapp", "id": "sigrid" },
+  { "name": "Marvin",   "contact": "marvin@roecher.de",   "contactType": "email",    "id": "marvin" }
+]
