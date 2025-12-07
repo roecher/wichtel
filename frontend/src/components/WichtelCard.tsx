@@ -1,12 +1,14 @@
 import React from 'react';
 
 interface WichtelCardProps {
+  giverName: string;
   receiverName: string;
   isRevealed: boolean;
   onReveal: () => void;
 }
 
 export const WichtelCard: React.FC<WichtelCardProps> = ({
+  giverName,
   receiverName,
   isRevealed,
   onReveal,
@@ -16,7 +18,7 @@ export const WichtelCard: React.FC<WichtelCardProps> = ({
       <div className="backdrop-blur-md bg-white/20 rounded-2xl shadow-2xl p-12 max-w-md w-full border border-white/30">
         <div className="text-center mb-8">
           <div className="text-6xl mb-4">🎄🎁❄️</div>
-          <h1 className="text-4xl font-bold text-white mb-2">Ho ho ho! 🎅</h1>
+          <h1 className="text-4xl font-bold text-white mb-2">Hello {giverName}! 🎅</h1>
           <p className="text-xl text-white/90">You are the Wichtel for:</p>
         </div>
 

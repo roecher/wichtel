@@ -10,6 +10,7 @@ export interface Participant {
 export interface Assignment {
   token: string;
   giverId: string;
+  giverName: string;
   receiverName: string;
 }
 

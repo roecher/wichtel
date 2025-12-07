@@ -30,6 +30,9 @@ namespace WichtelGenerator
         [JsonPropertyName("giverId")]
         public string GiverId { get; set; } = string.Empty;
 
+        [JsonPropertyName("giverName")]
+        public string GiverName { get; set; } = string.Empty;
+
         [JsonPropertyName("receiverName")]
         public string ReceiverName { get; set; } = string.Empty;
     }
@@ -129,6 +132,7 @@ namespace WichtelGenerator
                     {
                         Token = Guid.NewGuid().ToString("D"),
                         GiverId = giver.Id,
+                        GiverName = giver.Name,
                         ReceiverName = receiver.Name
                     };
 

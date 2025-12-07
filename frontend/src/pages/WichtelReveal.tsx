@@ -68,6 +68,7 @@ export const WichtelReveal: React.FC = () => {
 
   return (
     <WichtelCard
+      giverName={assignment.giverName}
       receiverName={assignment.receiverName}
       isRevealed={isRevealed}
       onReveal={() => setIsRevealed(true)}

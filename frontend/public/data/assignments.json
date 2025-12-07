@@ -1,39 +1,46 @@
 {
   "assignments": [
     {
-      "token": "a8a68d42-a83b-465f-8223-479c0bea37ea",
+      "token": "6d21f1ed-282c-4315-babd-e7929b66ec4e",
       "giverId": "mario",
+      "giverName": "Mario",
       "receiverName": "Florian"
     },
     {
-      "token": "49abb559-04e2-4a16-a508-4b0b2a1b4eb7",
+      "token": "f153142e-b54f-4efc-b31d-7c9a47c1fe87",
       "giverId": "bettina",
-      "receiverName": "Sigrid"
-    },
-    {
-      "token": "1d02ca4b-60fc-4098-bcaf-c5e79b130982",
-      "giverId": "lina",
-      "receiverName": "Stefanie"
-    },
-    {
-      "token": "95b07fc4-17bb-415c-940f-27ff8e83b3ec",
-      "giverId": "stefanie",
+      "giverName": "Bettina",
       "receiverName": "Mario"
     },
     {
-      "token": "fdf70c8d-81d9-4622-9944-8f96b9f561f6",
-      "giverId": "florian",
-      "receiverName": "Marvin"
-    },
-    {
-      "token": "2d300262-a0ee-4a9a-96fc-6e3207c127e9",
-      "giverId": "sigrid",
+      "token": "3658689c-7afe-44bc-ae7b-a6cce9df0105",
+      "giverId": "lina",
+      "giverName": "Lina",
       "receiverName": "Bettina"
     },
     {
-      "token": "1b206fee-8fec-4a1d-9057-6107a79dac00",
-      "giverId": "marvin",
+      "token": "46e14e17-ab38-46a7-9664-bf7d35c99498",
+      "giverId": "stefanie",
+      "giverName": "Stefanie",
       "receiverName": "Lina"
+    },
+    {
+      "token": "c844aa9f-fab7-4cd5-8d36-6aae8afaf419",
+      "giverId": "florian",
+      "giverName": "Florian",
+      "receiverName": "Marvin"
+    },
+    {
+      "token": "0316b753-932b-4fda-a143-e930afbe2e1c",
+      "giverId": "sigrid",
+      "giverName": "Sigrid",
+      "receiverName": "Stefanie"
+    },
+    {
+      "token": "b825069d-b91d-4c4f-8036-9315d77a2a09",
+      "giverId": "marvin",
+      "giverName": "Marvin",
+      "receiverName": "Sigrid"
     }
   ]
 }
